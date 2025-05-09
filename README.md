@@ -43,4 +43,4 @@ I'm an Android developer from [Colombia-CO 🇨🇴](https://www.google.com/maps
 
 <b>✨ Github Activity</b>
   
-  * [View](https://gitstalk.netlify.app/jimmyplazas)
+  * <a href="https://gitstalk.netlify.app/jimmyplazas" target="_blank">View activity</a>
