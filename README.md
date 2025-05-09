@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Jimmy
+## 👋  Hey, I'm Jimmy
 
 I'm an Android developer from [Colombia-CO 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/) with a passion for building intuitive, modern, and high-performance mobile apps. I specialize in Kotlin and Jetpack Compose, and I'm a big fan of clean architecture and best practices.
 
@@ -8,7 +8,7 @@ I'm an Android developer from [Colombia-CO 🇨🇴](https://www.google.com/maps
 
 🧩 I'm also a proud [Boyacá Dev](https://boyaca-dev.org/) Co-Organizer — helping build a strong local developer community. ✌️
 
-<b>🤝 Let's connect!</b>
+🤝 <b>Let's connect!</b>
 
 [<img src="https://img.shields.io/badge/website-%233867D6.svg?&style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAOpJREFUeNpiYBjW4P///wpA3A/E5/9jgvNQOQVyDe//TzzoJ8VgATQXv0di34dibHIgPQLEWIBs+HwgTkDiO0AxDARA1RBnCVqwJEDF1sM0Y3HEeig/gWBwQSMU7nKk4EKxEN1AJDFknyhQGqlERzoTkh0OVEzhDth8AAMFSJEJ8/Z+LOr3Q+UakMQC0IOOBRbWSHovMDIyHoCK+5Po8g/oAky0Lg3AFgBdjGwzsm8+kmieALEZjFJwHlsQHaBiyBwgKqOhpa5+pNTVj6X4OI83o9G8qMBRkpJc2A18cU3zCoduVeaQAQABBgBb2mB8ePpZSAAAAABJRU5ErkJggg==">](https://jimmyplazas.dev/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white"/>](https://x.com/jimmy_plazas_)
@@ -31,13 +31,15 @@ I'm an Android developer from [Colombia-CO 🇨🇴](https://www.google.com/maps
 [<img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>]()
 [<img src="https://img.shields.io/badge/material%20design-%23222222.svg?&style=for-the-badge&logo=material-design&logoColor=white" alt="Material Design"/>]()
 
-<b>🙌 Support my work</b>
+🙌 <b>Support my work</b>
 
 [<img src="https://img.shields.io/badge/buy%20me%20a%20coffee-%23FFDD00.svg?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAJdJREFUeNpiYBhE4D0UE8snGfyHYmL5YMBEa2%2BzkKD2A4n8YQwaoKnhP4UYa4o6TwWD%2F%2BNKUQ1IEuuB2AGXQjKSNDyjwAzHq5AcCwSQBB2oaQETEemdqmUNzYKILpGML5lSzQJcGY2qFmBTaECC4SQFLbaIJwTW4ysqiIl4XMAAyfD%2FUL1EAXLKp%2FO0KmHfk%2BLyoQEAAgwALvuOv5JVEn4AAAAASUVORK5CYII%3D"/>](https://buymeacoffee.com/jimmyplazas)
 
-<b>📈 Github Status</b>
-
-<img src="https://github-readme-stats.vercel.app/api?username=jimmyale3102&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Stats/Statistics" align="top"/>
+<details>
+  <summary>🔥 <b>Github Status</b></summary>
+  </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=jimmyale3102&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Stats/Statistics" align="top"/>
+</details>
 
 <b>✨ Github Activity</b>
   
