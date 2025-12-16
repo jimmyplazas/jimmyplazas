@@ -38,7 +38,7 @@ I'm an Android developer from [Colombia-CO 🇨🇴](https://www.google.com/maps
 <details>
   <summary>🔥 <b>Github Status</b></summary>
   </br>
-  <img src="https://github-readme-stats.vercel.app/api?username=jimmyale3102&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Stats/Statistics" align="top"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jimmyplazas&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Stats/Statistics" align="top"/>
 </details>
 
 <b>✨ Github Activity</b>
